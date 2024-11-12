@@ -2359,6 +2359,8 @@ h6 {
   margin-top: 80px;
   margin-bottom: 182px;
   position: relative;
+  justify-content: space-around;
+
 }
 .dizme_tm_contact .left {
   width: 50%;
